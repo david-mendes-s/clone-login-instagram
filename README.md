@@ -2,6 +2,10 @@
 
 Este projeto é um clone da página de login do Instagram, criado com HTML e CSS. O objetivo deste projeto é praticar minhas habilidades de desenvolvimento web, incluindo a criação de layouts responsivos e o uso de estilos CSS.
 
+## Visualizar Projeto
+
+[clone da página de login do instagram](https://strong-mooncake-3470c2.netlify.app/)
+
 ## Recursos e Estilo
 
 - O projeto utiliza estilos CSS personalizados para criar uma réplica fiel da página de login do Instagram.
